@@ -19,7 +19,7 @@ This project is a simple and efficient password generator built with HTML, CSS, 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/password-generator.git
+    git clone https://github.com/AlexanderJuniorjr35/Password-Generate.git
     ```
 2. **Open the `index.html` File in a Browser**:
     - Navigate to the project directory and open the `index.html` file in your preferred browser.
