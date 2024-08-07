@@ -53,13 +53,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-### Screenshots
-
-![Screenshot 1](./screenshots/screenshot1.png)
-![Screenshot 2](./screenshots/screenshot2.png)
-
----
-
 ### Contact
 
 - LinkedIn: www.linkedin.com/in/alexander-junior-654ab3269
